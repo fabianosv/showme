@@ -1,7 +1,14 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ## Olá, me chamo Fabiano Vasconcelos! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou aprendendo
+<p align="left"> 
+  Sou graduado em <strong>Ciência da Computação</strong>.<br>
+</p>
+
+- :black_nib: Atualmente estou em busca de uma oportunidade na área de desenvolvimento, especificamente como Front-end.
+- :notebook:  Estou estudando as seguintes tecnologias:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="55" height="55"/> &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> &ensp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> &ensp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
@@ -18,6 +25,7 @@
 <a href="https://www.linkedin.com/in/fabianosvasco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br>
+
 <br>
 
 
